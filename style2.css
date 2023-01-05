@@ -1,0 +1,22 @@
+body
+
+.bloc1{background-color: blue;
+height: 150px;
+width: 700px;
+float: left;;
+margin: 10px}
+
+.bloc2{background-color: red;
+height: 150px;
+width: 300px;
+float: left;;
+margin: 10px}
+
+.bloc3{background-color: green;
+height: 150px;
+width: 700px;
+clear: both;
+margin-left: 20px;
+margin: 10px}
+
+
