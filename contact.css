@@ -1,0 +1,27 @@
+@font-face {
+	font-family: MonumentExtended-Regular;
+	src: url(../Mission\ 17.01/MonumentExtended-Regular.otf);
+  }
+
+body{
+	font-family:'MonumentExtended-Regular';
+    color: white;
+	background-color: black;
+}
+
+.phrase{
+    margin-left: 250px;
+	width: 350px;
+	background-color: #00baff;
+	padding: 2px 25px;
+	margin-top: 100px;
+}
+
+.mail{
+    margin-top: 80px;
+}
+
+.num{
+	margin-top: 30px;
+}
+

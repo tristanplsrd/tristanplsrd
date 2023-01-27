@@ -1,0 +1,55 @@
+body
+{
+	background-color: black;
+
+}
+
+div
+{
+	border: 2px solid red;
+	border-radius: 26px;
+	width: 50%;
+	margin-left: 25%;
+	margin-right: 30%;
+	padding: 3%;
+	background-color: black;
+}
+
+button
+{
+	width: 175px;
+	border: 2px solid black;
+	border-radius: 26px;
+	background-color: red;
+	padding: 15px 32px;
+	margin-top: 10px;
+	color: black;
+	text-align: center;
+	margin-left: 25px;
+}
+
+button:hover
+{
+	background-color: black;
+	color: red;
+	border-color: red;
+}
+
+input
+{
+	border: 2px solid white;
+	background-color: black;
+	width: 225px;
+	border-radius: 26px;
+	padding: 15px 32px;
+	margin-top: 3px;
+	color: black;
+	margin-left: 20%
+}
+
+h1
+{
+	text-align: center;
+	color: red;
+	border-color: red;
+}

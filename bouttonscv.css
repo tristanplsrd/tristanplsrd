@@ -1,0 +1,32 @@
+@font-face {
+	font-family: MonumentExtended-Regular;
+	src: url(../Mission\ 17.01/MonumentExtended-Regular.otf);
+  }
+
+body{
+	font-family:'MonumentExtended-Regular';
+	background-color: black;
+}
+
+.boutton{
+    margin-top: 110px;
+}
+
+button
+{
+	font-family:'MonumentExtended-Regular';
+	width: 350px;
+	background-color: #00baff;
+	padding: 15px 32px;
+	margin-top: 100px;
+}
+
+button:hover
+{
+	color:#00668b;
+	background-color: black;
+	border: 2px solid #00baff;
+	padding-left: 100px;
+	transition: 0.2s;
+
+}

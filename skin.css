@@ -1,0 +1,29 @@
+body
+{
+	background-color: blue;
+}
+
+h1,h3
+
+{
+	color: white;
+font-family: verdana;
+font-size: 1em;
+clear: both;
+
+
+}
+
+div
+{
+
+background-color: red;
+border: 8px;
+border-radius: 8px;
+padding: 10%;
+text-align: justify;
+}
+
+p{color: white}
+.d1,.d2{background-color:black;}
+.d3{background-color:red }
